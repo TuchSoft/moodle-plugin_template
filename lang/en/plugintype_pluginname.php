@@ -27,5 +27,6 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'plugin_name';
+$string['description'] = 'plugin_desc';
 $string['privacy:metadata'] = 'This plugin does not store personal data, nor does it export personal data to an external location.';
 
